@@ -1,0 +1,16 @@
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\bin\Debug\netcoreapp3.1\Multi.exe
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\bin\Debug\netcoreapp3.1\Multi.deps.json
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\bin\Debug\netcoreapp3.1\Multi.runtimeconfig.json
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\bin\Debug\netcoreapp3.1\Multi.runtimeconfig.dev.json
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\bin\Debug\netcoreapp3.1\Multi.dll
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\bin\Debug\netcoreapp3.1\Multi.pdb
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\bin\Debug\netcoreapp3.1\EquationSolver.dll
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\obj\Debug\netcoreapp3.1\Multi.csproj.AssemblyReference.cache
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\obj\Debug\netcoreapp3.1\Multi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\obj\Debug\netcoreapp3.1\Multi.AssemblyInfoInputs.cache
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\obj\Debug\netcoreapp3.1\Multi.AssemblyInfo.cs
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\obj\Debug\netcoreapp3.1\Multi.csproj.CoreCompileInputs.cache
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\obj\Debug\netcoreapp3.1\Multi.csproj.CopyComplete
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\obj\Debug\netcoreapp3.1\Multi.dll
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\obj\Debug\netcoreapp3.1\Multi.pdb
+C:\Main\Workspace\QA_Aut_Lab_2022_C#\projects\Multi\Multi\obj\Debug\netcoreapp3.1\Multi.genruntimeconfig.cache

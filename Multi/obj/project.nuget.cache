@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGIMxVd5MUz9D1lA1mZKQGKjgdibIjJFPs4p++3paXun/xeul4FtzornE4akbVlOUEBkNT0PkHxtPiwq889PaA==",
+  "success": true,
+  "projectFilePath": "C:\\Main\\Workspace\\QA_Aut_Lab_2022_C#\\projects\\Multi\\Multi\\Multi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yarik\\.nuget\\packages\\rdstudequationsolver\\1.0.1\\rdstudequationsolver.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
